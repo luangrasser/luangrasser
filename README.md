@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**luangrasser/luangrasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luangrasser)](https://github.com/JoyceQuerubino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-grasser/)](https://www.linkedin.com/in/joyce-querubino/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bonilhaluan@gmail.com)](mailto:bonilhaluan@gmail.com)
 
-Here are some ideas to get you started:
+<center>
+<table>
+  <tr>
+    <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=luangrasser&count_private=true&show_icons=true&theme=tokyonight" /></td>
+      <td><img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luangrasser&layout=compact&hide=swift&show_icons=true&theme=tokyonight" /></td> 
+  </tr> 
+</table>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> :octocat:
