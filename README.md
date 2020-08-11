@@ -13,4 +13,7 @@
 </table>
 </center>
 
+💻 **Working mainly with the following technologies:** Java, JSF, Spring Boot/Data, JPA, Javascript, MySQL, Docker, Jenkins
+📚 **Seeking to improve my knowledge in:** AWS, Kubernetes, JUnit, Node.js, React, React Native
+
 > :octocat:
